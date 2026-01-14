@@ -1,6 +1,6 @@
 # 👋Hey, ich bin Niklas aka. EinNxk
 ---
-Ich programmiere derzeit viel In Minecraft vorallem kreative, neu entwickelte Spielmodi
+Ich programmiere derzeit viel In Minecraft vorallem kreative, neu entwickelte Spielmodi oder Back-End Projekte
 
 <br>Aktuelle Projekte:<br>
 Developer @ [Melvin501.de](https://melvin501.de)
